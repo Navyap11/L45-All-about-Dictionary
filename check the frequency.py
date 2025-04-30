@@ -1,8 +1,8 @@
-og_diction= {"hi":["2"],
-             "my":["4"],
-             "name":["2"],
-             "is":["1"],
-             "Navya":["2"]}
+og_diction= {"hi":2,
+             "my":4,
+             "name":2,
+             "is":1,
+             "Navya":2}
 
 print("The oG dictionary: "+ str(og_diction))
 
